@@ -4,10 +4,12 @@
 - https://www.w3docs.com/snippets/git/how-to-show-the-changes-which-have-been-staged.html
 - https://stackoverflow.com/questions/273695/what-are-some-examples-of-commonly-used-practices-for-naming-git-branches
 - https://stackoverflow.com/questions/23227927/how-do-i-move-master-back-several-commits-in-git
+- https://medium.com/@igor_marques/git-basics-adding-more-changes-to-your-last-commit-1629344cb9a8
 
 # CSS
 - https://www.delftstack.com/howto/css/resize-image-css/
 - https://stackoverflow.com/questions/5581799/how-to-stretch-div-height-to-fill-parent-div-css
+- https://stackoverflow.com/questions/4611591/code-vs-pre-vs-samp-for-inline-and-block-code-snippets
 
 # JS 
 - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/unshift
@@ -56,3 +58,6 @@
 - https://d3-graph-gallery.com/graph/interactivity_tooltip.html
 - https://bl.ocks.org/d3noob/a22c42db65eb00d4e369
 - https://stackoverflow.com/questions/17595813/is-it-possible-to-append-a-div-inside-an-svg-element#:~:text=Absolutely%20right.,g%20tag%20is%20better.
+
+# SQL
+- https://stackoverflow.com/questions/16736814/creating-a-table-with-psql-as-clone-of-another-table-but-excluding-a-column
