@@ -61,3 +61,4 @@
 
 # SQL
 - https://stackoverflow.com/questions/16736814/creating-a-table-with-psql-as-clone-of-another-table-but-excluding-a-column
+- https://stackoverflow.com/questions/36359440/postgresql-insert-on-conflict-update-upsert-use-all-excluded-values
