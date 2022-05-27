@@ -6,16 +6,21 @@
 - https://stackoverflow.com/questions/23227927/how-do-i-move-master-back-several-commits-in-git
 - https://medium.com/@igor_marques/git-basics-adding-more-changes-to-your-last-commit-1629344cb9a8
 
-# CSS
+# Web Development
+
+## CSS
 - https://www.delftstack.com/howto/css/resize-image-css/
 - https://stackoverflow.com/questions/5581799/how-to-stretch-div-height-to-fill-parent-div-css
 - https://stackoverflow.com/questions/4611591/code-vs-pre-vs-samp-for-inline-and-block-code-snippets
 
-# JS 
+## JS 
 - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/unshift
 - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/isArray
 - https://www.digitalocean.com/community/tutorials/js-finally-understand-reduce
 - https://stackoverflow.com/questions/7342957/how-do-you-round-to-1-decimal-place-in-javascript
+
+## DOM
+- http://domenlightenment.com/
 
 # Good Articles
 - https://www.toptal.com/freelance/your-boss-won-t-appreciate-tdd-try-bdd
