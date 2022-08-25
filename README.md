@@ -70,3 +70,4 @@
 - https://stackoverflow.com/questions/36359440/postgresql-insert-on-conflict-update-upsert-use-all-excluded-values
 - https://www.postgresql.org/docs/current/indexes-expressional.html
 - https://www.ongres.com/blog/boost-your-user-defined-functions-in-postgresql/
+-https://stackoverflow.com/questions/6218902/the-sql-over-clause-when-and-why-is-it-useful
