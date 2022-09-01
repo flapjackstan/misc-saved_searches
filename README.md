@@ -6,6 +6,9 @@
 - https://stackoverflow.com/questions/23227927/how-do-i-move-master-back-several-commits-in-git
 - https://medium.com/@igor_marques/git-basics-adding-more-changes-to-your-last-commit-1629344cb9a8
 
+# Linux
+https://www.fosslinux.com/48317/scheduling-tasks-systemd-timers-linux.htm
+
 # Web Development
 
 ## CSS
